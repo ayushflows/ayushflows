@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Tripathi</h1>
-<h3 align="center">A passionate Front-End developer from India</h3>
+<h3 align="center">BTech CSE student with a fervor for web development. Actively learning and seeking opportunities in the Web Dev field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anywaay&label=Profile%20views&color=0e75b6&style=flat" alt="anywaay" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/a_nywaay" target="blank"><img src="https://img.shields.io/twitter/follow/a_nywaay?logo=twitter&style=for-the-badge" alt="a_nywaay" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development and Data Structures and Algorithm**
+- 🌱 I’m currently learning **Full Stack Web Development, Data Structures and Algorithm, Computer Languages.**
 
-- 👨‍💻 All of my projects are available at [https://anywaay.github.io/Portfolio/](https://anywaay.github.io/Portfolio/)
+- 👨‍💻 All of my Skills, Information and Projects are available at [https://anywaay.github.io/Portfolio/](https://anywaay.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, React, etc.**
+- 💬 Ask me about **Full-Stack Web Dev, Data Structures and Algorithm, Computer Languages such as C++, C, Python, JavaScript, etc. Software such as Autocad, Matlab, Maya, etc.**
 
-- 📫 How to reach me **ayushtripathi200a3@gmail.com**
+- 📫 Contact me on my Email: **ayushtripathi200a3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
