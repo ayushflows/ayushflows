@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Data Structures and Algorithm, Computer Languages.**
 
-- 👨‍💻 All of my Skills, Information and Projects are available at [https://anywaay.github.io/Portfolio/](https://anywaay.github.io/Portfolio/)
+- 👨‍💻 All of my Skills, Information and Projects are available at [Anywaay -Portfolio](https://anywaay.github.io/Portfolio/)
 
-- 📄 My Resume for all Information [https://github.com/anywaay/anywaay/blob/cf19f196a4a5ad66ac3701a6d7cc38b08464026a/Ayush%20Tripathi%20-Resume.pdf](https://github.com/anywaay/anywaay/blob/cf19f196a4a5ad66ac3701a6d7cc38b08464026a/Ayush%20Tripathi%20-Resume.pdf)
+- 📄 My Resume for all Information [Ayush Tripathi -Resume](https://github.com/anywaay/anywaay/blob/cf19f196a4a5ad66ac3701a6d7cc38b08464026a/Ayush%20Tripathi%20-Resume.pdf)
 
 - 💬 Ask me about **Full-Stack Web Dev, Data Structures and Algorithm, Computer Languages such as C++, C, Python, JavaScript, etc. Software such as Autocad, Matlab, Maya, etc.**
 
