@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Full-Stack Web Dev, Data Structures and Algorithm, Computer Languages such as C++, C, Python, JavaScript, etc. Software such as Autocad, Matlab, Maya, etc.**
 
-- 📫 Contact me on my Email: **ayushtripathi200a3@gmail.com**
+- 📫 Contact me on my Email: **mailtoayushtripathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
