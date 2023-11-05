@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my Skills, Information and Projects are available at [Anywaay -Portfolio](https://anywaay.github.io/Portfolio/)
 
-- 📄 My Resume for all Information [Ayush Tripathi -Resume](https://github.com/anywaay/anywaay/blob/cf19f196a4a5ad66ac3701a6d7cc38b08464026a/Ayush%20Tripathi%20-Resume.pdf)
+- 📄 My Resume for all Information [Ayush Tripathi -Resume](https://github.com/anywaay/anywaay/blob/1db7298fec66187c78ca369064d15f003d3dda64/Ayush%20Tripathi%20-Resume.pdf)
 
 - 💬 Ask me about **Full-Stack Web Dev, Data Structures and Algorithm, Computer Languages such as C++, C, Python, JavaScript, etc. Software such as Autocad, Matlab, Maya, etc.**
 
