@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Tripathi</h1>
 <h3 align="center">BTech CSE student with a fervor for web development. Actively learning and seeking opportunities in the Web Dev field</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anywaay&label=Profile%20views&color=0e75b6&style=flat" alt="anywaay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anywaay&label=Profile%20views&color=0e75bb&style=flat" alt="anywaay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anywaay" alt="anywaay" /></a> </p>
 
