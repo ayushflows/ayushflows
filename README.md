@@ -1,30 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ayush Tripathi</h1>
 <h3 align="center">BTech CSE student with a fervor for web development. Actively learning and seeking opportunities in the Web Dev field</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anywaay&label=Profile%20views&color=0e75bb&style=flat" alt="anywaay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anywaay" alt="anywaay" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushflows" alt="ayushflows" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/a_nywaay" target="blank"><img src="https://img.shields.io/twitter/follow/a_nywaay?logo=twitter&style=for-the-badge" alt="a_nywaay" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayushflows" target="blank"><img src="https://img.shields.io/twitter/follow/ayushflows?logo=twitter&style=for-the-badge" alt="a_nywaay" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development, Data Structures and Algorithm, Computer Languages.**
 
 - 👨‍💻 All of my Skills, Information and Projects are available at [Anywaay -Portfolio](https://anywaay-portfolio.web.app/)
 
-- 📄 My Resume for all Information [Resume-Ayush Tripathi](https://github.com/anywaay/anywaay/blob/15e2df963eed999ee50ea50321cbea4d42b12993/Ayush_Tripathi-Resume.pdf)
+- 📄 My Resume for all Information [Resume-Ayush Tripathi](https://github.com/ayushflows/ayushflows/blob/ae55333a2320ccc32db6d77e4f2a71c64c705ffc/Ayush_Tripathi-Resume.pdf)
 
 - 💬 Ask me about **Full-Stack Web Dev, Data Structures and Algorithm, Computer Languages such as C++, C, Python, JavaScript, etc. Software such as Autocad, Matlab, Maya, etc.**
 
-- 📫 Contact me on my Email: **mailtoayushtripathi@gmail.com**
+- 📫 Contact me on my Email: **ayushflows@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/a_nywaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_nywaay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-tripathi-b17250257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-tripathi-b17250257" height="30" width="40" /></a>
-<a href="https://instagram.com/a.nywaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.nywaay" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anywaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anywaay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anywaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anywaay" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anyway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anyway" height="30" width="40" /></a>
+<a href="https://twitter.com/ayushflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushflows" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushflows" height="30" width="40" /></a>
+<a href="https://instagram.com/ayushflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.nywaay" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ayushflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayushflows" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayushflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushflows" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
